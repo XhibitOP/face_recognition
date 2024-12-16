@@ -1,4 +1,4 @@
-#face Recognition Application
+Face Recognition Application
 
 This project is a Python-based face recognition application that allows users to capture, compare, and store photos using a graphical user interface (GUI). It uses a webcam to capture images, detects faces, and compares them for similarities. The project also logs photo records in an SQLite database.
 
